@@ -1,6 +1,7 @@
 package pakiet1;
 
-
+import com.example.myapp.MyClass;
+import com.example.myapp.utils.StringUtils;
 
 public class MyAppTest {
     public static void main(String[] args) {
