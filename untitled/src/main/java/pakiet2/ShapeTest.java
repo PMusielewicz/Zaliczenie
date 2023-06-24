@@ -2,7 +2,7 @@ package pakiet2;
 
 import pakiet2.Circle;
 import pakiet2.Rectangle;
-import pakiet2.utils.StringUtils;
+import pakiet2.StringUtils;
 
 public class ShapeTest {
     public static void main(String[] args) {
